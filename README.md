@@ -1,9 +1,9 @@
-![Header](./github-header-banner.png)
+![Header](./3rdbanner.png)
 ## Interests
 
-- Programming
+- Programming (Data Structures and Algorithms)
 - Pure Mathematics
-- Science
+- Science (Physics and its emerging recent trends)
 - Machine Learning
 
 ## Currently Learning
