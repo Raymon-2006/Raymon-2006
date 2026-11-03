@@ -1,22 +1,10 @@
 ![Header](./3rdbanner.png)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
 ## Interests
 
 - Programming (Data Structures and Algorithms)
 - Pure Mathematics
 - Science (Physics and its emerging recent trends)
 - Machine Learning
-
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="./assets/NuiHarimeNew.gif" width="100%" alt="Animated GIF">
-    </td>
-  </tr>
-</table>
 
 ## Currently Learning
 
@@ -31,3 +19,4 @@
 
 - Discord: **reddwarfs**
 - Facebook: **Raymon Aryal**
+<img width="500" height="281" alt="NuiHarimeNew" src="https://github.com/user-attachments/assets/59b05b57-4d21-49c2-9636-66f3a871b503" />
