@@ -1,8 +1,7 @@
 ![Header](./3rdbanner.png)
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
 
 ## Interests
 
@@ -11,14 +10,13 @@
 - Science (Physics and its emerging recent trends)
 - Machine Learning
 
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/7a170444-d795-4e11-a472-9cdffa3b1581" width="100%" alt="Nui Harime GIF">
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/7a170444-d795-4e11-a472-9cdffa3b1581" width="100%" alt="Nui Harime GIF">
+  </div>
+</div>
 
-## Currently Learning
+## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -26,6 +24,10 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+## Currently Learning
+
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ## Connect with Me
 
