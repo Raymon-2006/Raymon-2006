@@ -1,20 +1,15 @@
 ![Header](./3rdbanner.png)
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
+<img align="right" width="45%" src="https://github.com/user-attachments/assets/7a170444-d795-4e11-a472-9cdffa3b1581" alt="Nui Harime GIF">
 
-## Interests
+### Interests
 
 - Programming (Data Structures and Algorithms)
 - Pure Mathematics
 - Science (Physics and its emerging recent trends)
 - Machine Learning
 
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7a170444-d795-4e11-a472-9cdffa3b1581" width="100%" alt="Nui Harime GIF">
-  </div>
-</div>
+<br clear="right">
 
 ## Tech Stack
 
@@ -33,3 +28,7 @@
 
 - Discord: **reddwarfs**
 - Facebook: **Raymon Aryal**
+
+<img width="250" height="250" alt="ryukoNewest" src="https://github.com/user-attachments/assets/db5932ad-2e49-49a2-8738-48df3ff74d12" />
+
+<img width="400" height="224" alt="ryukoKissingNui" src="https://github.com/user-attachments/assets/d1367cf7-66b4-4da8-80de-c695f67bb001" />
