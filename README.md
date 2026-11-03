@@ -31,4 +31,4 @@
 
 <img width="250" height="250" alt="ryukoNewest" src="https://github.com/user-attachments/assets/db5932ad-2e49-49a2-8738-48df3ff74d12" />
 
-<img width="400" height="224" alt="ryukoKissingNui" src="https://github.com/user-attachments/assets/d1367cf7-66b4-4da8-80de-c695f67bb001" />
+
