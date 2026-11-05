@@ -1,4 +1,6 @@
-![Header](./3rdbanner.png)
+<img width="2125" height="575" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/6083251e-6f0c-4f82-bb43-fddb9ed98f6e" />
+
+<img width="1412" height="178" alt="a-student-of-science-and-history-banner" src="https://github.com/user-attachments/assets/58215b6f-4f8d-421e-a376-eed68e93c1b0" />
 
 <img align="right" width="45%" src="https://github.com/user-attachments/assets/7a170444-d795-4e11-a472-9cdffa3b1581" alt="Nui Harime GIF">
 
@@ -23,6 +25,7 @@
 ## Currently Learning
 
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 ## Connect with Me
 
@@ -30,5 +33,8 @@
 - Facebook: **Raymon Aryal**
 
 <img width="250" height="250" alt="ryukoNewest" src="https://github.com/user-attachments/assets/db5932ad-2e49-49a2-8738-48df3ff74d12" />
+
+
+
 
 
