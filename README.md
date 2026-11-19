@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner (5)" src="https://github.com/user-attachments/assets/18e74f02-3c16-40fb-b162-38b8f2416628" />
+<img width="2125" height="575" alt="github-header-banner (8)" src="https://github.com/user-attachments/assets/ce6c4a12-9939-43c7-8472-19bdf37368e6" />
 
 
 <img width="1412" height="178" alt="a-student-of-science-and-history-banner" src="https://github.com/user-attachments/assets/58215b6f-4f8d-421e-a376-eed68e93c1b0" />
